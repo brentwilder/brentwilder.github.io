@@ -19,7 +19,7 @@ Education
 Grants and scholarships
 ======
 * 2020: Master’s Research Scholarship Award, San Diego State University. Awarded in Summer of 2020; $10,000; 1 year of support.
-* 2019: SDSU Graduate Research Innovation Award, Joint Fire Science Program. Awarded Fall of 2019 ([#19-1-01-55](https://www.firescience.gov/JFSP_advanced_search_results_detail.cfm?jdbid=%24%27%3A%2B8W%20%20%20%0A)); $24,958; [24% acceptance rate; 2 years of support]
+* 2019: Graduate Research Innovation Award, Joint Fire Science Program. Awarded Fall of 2019 ([#19-1-01-55](https://www.firescience.gov/JFSP_advanced_search_results_detail.cfm?jdbid=%24%27%3A%2B8W%20%20%20%0A)); $24,958; [24% acceptance rate; 2 years of support]
 
 
 Publications
