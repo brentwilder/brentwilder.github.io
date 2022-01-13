@@ -1,0 +1,39 @@
+---
+layout: splash
+title: ""
+permalink: /
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+<h4 style="color:#51e5ff; font-size:16px;">
+My name is Brent, and I'm a graduate student pursuing a Ph.D. in Geosciences at Boise State University with a background (B.S. / M.S.) in civil engineering and post-fire hydrology. Feel free to check out my CV for more details on my background (top right corner of the page). </h4>
+</head>
+<body>
+    <iframe style="width: 100%;border:3px solid black; 
+     " src="https://brentwilder.github.io/maps/map/" id="Iframe" ></iframe>
+    <!--iframe tag-->
+      
+    <script>
+        // Selecting the iframe element
+        var frame = document.getElementById("Iframe");
+          
+        // Adjusting the iframe height onload event
+        frame.onload = function()
+        // function execute while load the iframe
+        {
+          // set the height of the iframe as 
+          // the height of the iframe content
+          frame.style.height = "550px";
+ 
+         // set the width of the iframe as the 
+         // width of the iframe content
+         frame.style.width  = 
+          frame.contentWindow.document.body.scrollWidth+'px';
+ 
+        }
+        </script>
+</body>
+</html>   
