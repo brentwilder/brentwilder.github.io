@@ -30,7 +30,7 @@ Publications
   
 Talks
 ======
-* **Poster Presentation**, “Post-fire Vegetation and Hydrologic Recovery in a Mediterranean Climate” American Geophysical Union (virtual), December 10, 2020. [Virtual Poster](https://www.proquest.com/openview/07bfabf25a36d98a7c3a1d374b3dbb2a/1?pq-origsite=gscholar&cbl=4882998)
+* **Poster Presentation**, “Post-fire Vegetation and Hydrologic Recovery in a Mediterranean Climate” American Geophysical Union (virtual), December 10, 2020.
 * **Poster Presentation**, “ECOSTRESS Wildfire Applications” Geo For Good Summit 2020 (virtual), October 20, 2020. Primary authors were Paa Sey from Howard University and Christine Lee from NASA-JPL.
 * **Poster Presentation**, “Flood after fire in southern California - Incorporating machine learning to identify important parameters for process-based hydrologic models” Student Research Symposium, in San Diego, California, February 28, 2020.
 * **Poster Presentation**, “Flood after fire in southern California - Incorporating machine learning to identify important parameters for process-based hydrologic models” International Erosion Control Association Annual Conference in Raleigh, North Carolina, February 25, 2020.
