@@ -1,0 +1,168 @@
+<html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=true; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_e287e35aaf7540c586e930364c76faf6 {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_e287e35aaf7540c586e930364c76faf6" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_e287e35aaf7540c586e930364c76faf6 = L.map(
+        'map_e287e35aaf7540c586e930364c76faf6', {
+        center: [35.429654506022686, -40.534574575123244],
+        zoom: 3,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+L.control.scale().addTo(map_e287e35aaf7540c586e930364c76faf6);
+
+    
+    var tile_layer_2375518a77664bcfa1ddeb8fe20dfb85 = L.tileLayer(
+        'https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_e287e35aaf7540c586e930364c76faf6);
+    
+        var marker_2b8e0a90fb1f48228006dbe3b5d47618 = L.marker(
+            [34.05821079497198, -117.82156161936645],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_e287e35aaf7540c586e930364c76faf6);
+        
+    
+
+                var icon_3d2e2cd05dc3438885dc8a26de53e794 = L.AwesomeMarkers.icon({
+                    icon: 'graduation-cap',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'fa',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_2b8e0a90fb1f48228006dbe3b5d47618.setIcon(icon_3d2e2cd05dc3438885dc8a26de53e794);
+            
+    
+            var popup_49e8f50c351a42388c5e5ee907e30dab = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_303f95c46a4f4f6089eb0457206eccbd = $(`<div id="html_303f95c46a4f4f6089eb0457206eccbd" style="width: 100.0%; height: 100.0%;">B.S. in Civil Engineering at Cal Poly Pomona</div>`)[0];
+                popup_49e8f50c351a42388c5e5ee907e30dab.setContent(html_303f95c46a4f4f6089eb0457206eccbd);
+            
+
+            marker_2b8e0a90fb1f48228006dbe3b5d47618.bindPopup(popup_49e8f50c351a42388c5e5ee907e30dab)
+            ;
+
+            
+        
+    
+        var marker_a33f8f7dd5e247a98e7434ae4f91187c = L.marker(
+            [32.775971021569276, -117.07078541763748],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_e287e35aaf7540c586e930364c76faf6);
+        
+    
+
+                var icon_7e9f228f506d4a83ad7441acb62a4428 = L.AwesomeMarkers.icon({
+                    icon: 'graduation-cap',
+                    iconColor: 'white',
+                    markerColor: 'black',
+                    prefix: 'fa',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_a33f8f7dd5e247a98e7434ae4f91187c.setIcon(icon_7e9f228f506d4a83ad7441acb62a4428);
+            
+    
+            var popup_7b214db463c949ffb96485d9518f90e5 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_7e842251782c491fa05683810f8be6b6 = $(`<div id="html_7e842251782c491fa05683810f8be6b6" style="width: 100.0%; height: 100.0%;">M.S. in Civil Engineering at San Diego State University</div>`)[0];
+                popup_7b214db463c949ffb96485d9518f90e5.setContent(html_7e842251782c491fa05683810f8be6b6);
+            
+
+            marker_a33f8f7dd5e247a98e7434ae4f91187c.bindPopup(popup_7b214db463c949ffb96485d9518f90e5)
+            ;
+
+            
+        
+    
+        var marker_8bf85727be5c440eb4f79a6dfd9a99e6 = L.marker(
+            [43.602696842915805, -116.19611220326269],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_e287e35aaf7540c586e930364c76faf6);
+        
+    
+
+                var icon_0194b9eb31dc4797b2a861407c3f9a36 = L.AwesomeMarkers.icon({
+                    icon: 'graduation-cap',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'fa',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_8bf85727be5c440eb4f79a6dfd9a99e6.setIcon(icon_0194b9eb31dc4797b2a861407c3f9a36);
+            
+    
+            var popup_f5573e52ecdd4ed79f77436b02f20e64 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_c95b990a74da47d1a2e9686e54b5d0ec = $(`<div id="html_c95b990a74da47d1a2e9686e54b5d0ec" style="width: 100.0%; height: 100.0%;">Ph.D. in Geosciences at Boise State University (current)</div>`)[0];
+                popup_f5573e52ecdd4ed79f77436b02f20e64.setContent(html_c95b990a74da47d1a2e9686e54b5d0ec);
+            
+
+            marker_8bf85727be5c440eb4f79a6dfd9a99e6.bindPopup(popup_f5573e52ecdd4ed79f77436b02f20e64)
+            ;
+
+            
+        
+</script>
+</html>
