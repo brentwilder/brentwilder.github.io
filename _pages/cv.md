@@ -21,15 +21,21 @@ Grants and scholarships
 * 2020: Master’s Research Scholarship Award, San Diego State University. Awarded in Summer of 2020; $10,000; 1 year of support.
 * 2019: Graduate Research Innovation Award, Joint Fire Science Program. Awarded Fall of 2019 ([#19-1-01-55](https://www.firescience.gov/JFSP_advanced_search_results_detail.cfm?jdbid=%24%27%3A%2B8W%20%20%20%0A)); $24,958; [24% acceptance rate; 2 years of support]
 
+Fellowship positions
+======
+* Summer 2022: [Scientists in Parks (SIP) Fellow](https://www.esa.org/scientists-in-parks/2022-fellows/) at Cabrillo National Monument, San Diego, CA
 
 Publications
 ======
+1. [Wilder, B. A., & Kinoshita, A. M. (2022). Incorporating ECOSTRESS evapotranspiration in a paired catchment water balance analysis after the 2018 Holy Fire in California. CATENA, 215, 106300.](https://www.sciencedirect.com/science/article/pii/S0341816222002867) 
 1. [Wilder, B. A., Lancaster, J. T., Cafferata, P. H., Coe, D. B., Swanson, B. J., Lindsay, D. N.,  Short, W. R., & Kinoshita, A. M. (2021). An analytical solution for rapidly predicting post‐fire peak streamflow for small watersheds in southern California. Hydrological Processes, 35(1), e13976.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.13976)
 1. [Kohli, G., Lee, C. M., Fisher, J. B., Halverson, G., Variano, E., Jin, Y., Carney, D., Wilder, B. A., & Kinoshita, A. M. (2020). ECOSTRESS and CIMIS: A Comparison of Potential and Reference Evapotranspiration in Riverside County, California. Remote Sensing, 12(24), 4126. MDPI AG.](https://www.mdpi.com/2072-4292/12/24/4126)
 
   
 Talks
 ======
+* **Poster Presentation**, “Improving snow distribution estimates to increase drought resilliance in the Boise Mountains” Western Snow Conference, April 19, 2022.
+* **Poster Presentation**, “Application of ECOSTRESS evapotranspiration in a paired catchment analysis following the 2018 Holy Fire in California” International Association of Landscape Ecology [(virtual)](https://www.youtube.com/watch?v=9X8W78rROBU), April 11, 2022.
 * **Poster Presentation**, “Post-fire Vegetation and Hydrologic Recovery in a Mediterranean Climate” American Geophysical Union (virtual), December 10, 2020.
 * **Poster Presentation**, “ECOSTRESS Wildfire Applications” Geo For Good Summit 2020 (virtual), October 20, 2020. Primary authors were Paa Sey from Howard University and Christine Lee from NASA-JPL.
 * **Poster Presentation**, “Flood after fire in southern California - Incorporating machine learning to identify important parameters for process-based hydrologic models” Student Research Symposium, in San Diego, California, February 28, 2020.
