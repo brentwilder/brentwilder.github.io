@@ -16,12 +16,13 @@ Education
   * Graduate of [Kellogg Honors College](https://www.cpp.edu/honorscollege/) 
 
 
-Grants and scholarships
+Grants and Scholarships
 ======
-* 2020: Master’s Research Scholarship Award, San Diego State University. Awarded in Summer of 2020; $10,000; 1 year of support.
-* 2019: Graduate Research Innovation Award, Joint Fire Science Program. Awarded Fall of 2019 ([#19-1-01-55](https://www.firescience.gov/JFSP_advanced_search_results_detail.cfm?jdbid=%24%27%3A%2B8W%20%20%20%0A)); $24,958; [24% acceptance rate; 2 years of support]
+* 2022 FINESST Grant, NASA (21-EARTH21-0249), $150,000 [16% acceptance; 3 years of support]
+* 2020 Master’s Research Scholarship Award, San Diego State, $10,000 [1 year of support]
+* 2019 GRIN Award, JFSP (#19-1-01-55), $24,958 [24% acceptance; 2 years of support]
 
-Fellowship positions
+Fellowships
 ======
 * Summer 2022: [Scientists in Parks (SIP) Fellow](https://www.esa.org/scientists-in-parks/2022-fellows/) at Cabrillo National Monument, San Diego, CA
 
@@ -34,6 +35,8 @@ Publications
   
 Talks
 ======
+* **Oral Presentation**, “Coastal Fog - A Lifeline for Native Plants in Southern California” ESA Annual Conference in Montreal, Canada, August 18, 2022.
+* **Oral Presentation**, “Coastal Fog - A Lifeline for Native Plants” [Naturally Speaking Series](https://www.youtube.com/watch?v=0B5EOmPa89A), July 15, 2022.
 * **Poster Presentation**, “Improving snow distribution estimates to increase drought resilliance in the Boise Mountains” Western Snow Conference, April 19, 2022.
 * **Poster Presentation**, “Application of ECOSTRESS evapotranspiration in a paired catchment analysis following the 2018 Holy Fire in California” International Association of Landscape Ecology [(virtual)](https://www.youtube.com/watch?v=9X8W78rROBU), April 11, 2022.
 * **Poster Presentation**, “Post-fire Vegetation and Hydrologic Recovery in a Mediterranean Climate” American Geophysical Union (virtual), December 10, 2020.
@@ -51,7 +54,7 @@ Teaching
 * **Supplemental Instructor**, Undergraduate courses in structural mechanics for Fall 2017, Winter 2018, and Spring 2018 at Cal Poly Pomona. Responsible for helping other engineering students with their coursework including calculus, differential equations, and structural analysis. I was a crucial part of the pilot Supplemental Instructor (SI) program where tutors used IPad's and focused learning sessions to facilitate learning.
   
   
-Service and leadership
+Service and Leadership
 ======
 * Volunteered and led groups (300+ hours) with the [San Diego River Park Foundation](https://sandiegoriver.org/) during the course of my master's degree at San Diego State University
 * Volunteered at several events at Cal Poly Pomona through Kellogg Honors College including Matt's Run and Showcase of Excellence
