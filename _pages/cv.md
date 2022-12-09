@@ -33,8 +33,9 @@ Publications
 1. [Kohli, G., Lee, C. M., Fisher, J. B., Halverson, G., Variano, E., Jin, Y., Carney, D., Wilder, B. A., & Kinoshita, A. M. (2020). ECOSTRESS and CIMIS: A Comparison of Potential and Reference Evapotranspiration in Riverside County, California. Remote Sensing, 12(24), 4126. MDPI AG.](https://www.mdpi.com/2072-4292/12/24/4126)
 
   
-Talks
+Conferences
 ======
+* **Poster Presentation**, “Snow Albedo Modeling with Imaging Spectroscopy aboard Earth Observing Satellites” Surface Biology and Geology (SBG) Community Meeting, in Washington D.C., October 12, 2022.
 * **Oral Presentation**, “Coastal Fog - A Lifeline for Native Plants in Southern California” ESA Annual Conference in Montreal, Canada, August 18, 2022.
 * **Oral Presentation**, “Coastal Fog - A Lifeline for Native Plants” [Naturally Speaking Series](https://www.youtube.com/watch?v=0B5EOmPa89A), July 15, 2022.
 * **Poster Presentation**, “Improving snow distribution estimates to increase drought resilliance in the Boise Mountains” Western Snow Conference, April 19, 2022.
