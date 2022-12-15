@@ -10,6 +10,7 @@ author_profile: true
 Education
 ======
 * Ph.D. in Geosciences, Boise State University, present 
+  * PhD Dissertation: Primary focus is on modeling snow surface albedo 
 * M.S. in Civil Engineering (Water Resources), San Diego State University, 2021
   * Master's Thesis: _Runoff Prediction and Ecohydrological Recovery for Small Catchments After Fire in Southern California_
 * B.S. in Civil Engineering, Cal Poly Pomona, 2018
