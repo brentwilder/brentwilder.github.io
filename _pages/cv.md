@@ -67,4 +67,4 @@ Certifications
 * **Remote Pilot**, via FAA for Small Unmanned Aircraft System (#4411570)
 * **Engineer in Training**, via California Board for Professional Engineers, Land Surveyors, and Geologists (#162671)
 * **CPR/AED for Professional Rescuers with First Aid**, via American Red Cross (#0159LMD, expires 03/25)
-* **Wilderness First Aid (WFA)**, via National Outdoor Leadership School (#TBD, expires 03/25)
+* **Wilderness First Aid (WFA)**, via National Outdoor Leadership School (expires 03/25)
