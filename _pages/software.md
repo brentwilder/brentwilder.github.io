@@ -10,7 +10,7 @@ author_profile: false
 
 This repository can be used to take in imaging spectroscopy that has been processed by JPL algorithms ([SISTER](https://github.com/EnSpec/sister) & [ISOFIT](https://github.com/isofit/isofit)) to output optical snow properties and fractional land covers. Similar to previous work, our algorithm solves for these properties simultaneously using numerical optimization of a linear mixture + two-stream forward model ([TARTES](https://github.com/ghislainp/tartes)).
 
-*Pictures coming soon!!*
+![albedo](https://raw.githubusercontent.com/brentwilder/brentwilder.github.io/master/assets/images/albedo_30m_NASA.jpg)
 
 
 
