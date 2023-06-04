@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 ## Global Optical Snow properties via High-speed Algorithm With K-means clustering (GOSHAWK)
-This repository can be used to take in satellite imaging spectroscopy data to output optical snow properties. Similar to previous work, our algorithm solves for these properties simultaneously using numerical optimization of a linear mixture / two-stream forward model ([TARTES](https://github.com/ghislainp/tartes)). We leverage k-means spectral clustering and message passing interface to greatly speed up computation.
+This repository can be used to take in spaceborne imaging spectroscopy data to output snow surface properties. Our algorithm solves for these properties simultaneously using numerical optimization of a linear mixture / two-stream snow model ([TARTES](https://github.com/ghislainp/tartes)). We leverage k-means spectral clustering and message passing interface to greatly speed up computation.
 
 
 
