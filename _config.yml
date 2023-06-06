@@ -105,18 +105,12 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=WMbxlQ4AAAAJ&hl=en"
-   # - label: "ResearchGate"
-   #   icon: "fab fa-researchgate"
-   #   url: "https://www.researchgate.net/profile/Brenton-Wilder"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/brenton-a-wilder/" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/brentwilder"
-    #- label: "HydroShare"
-    #  icon: "fas fa-database"
-    #  url: "https://www.hydroshare.org/user/5264/"
 
 # Site Footer
 footer:
