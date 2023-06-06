@@ -96,7 +96,7 @@ author:
   name             : "Brent Wilder"
   avatar           : "/assets/images/profile_bw.jpg"
   bio              : "Ph.D. student<br>Geosciences<br>Boise State University"
-  location         : "Oregon Coast con mi tesoro"
+  location         : "Corvallis, OR (USA)"
   email            :
   links:
     - label: "Email"
@@ -107,7 +107,7 @@ author:
       url: "https://scholar.google.com/citations?user=WMbxlQ4AAAAJ&hl=en"
    # - label: "ResearchGate"
    #   icon: "fab fa-researchgate"
-      url: "https://www.researchgate.net/profile/Brenton-Wilder"
+   #   url: "https://www.researchgate.net/profile/Brenton-Wilder"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/brenton-a-wilder/" 
