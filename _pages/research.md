@@ -7,3 +7,11 @@ author_profile: false
 ---
 
 ## Research Themes
+### Snow Hydrology
+xyz
+
+### Disturbance Hydrology
+xyz
+
+### Water Resources
+xyz
