@@ -1,8 +1,8 @@
 ---
 layout: single
-permalink: /software/
-title: "Software"
-excerpt: "Software"
+permalink: /research/
+title: "Research"
+excerpt: "Research"
 author_profile: false
 ---
 
