@@ -13,5 +13,5 @@ My central research interest is to improve our monitoring ability of seasonal sn
 Of particular interest includes watersheds that have been impacted by wildfire. Mountain watersheds can see increased peak streamflows following wildfire due to increased erosion and mass movement. From a snow perspective, the change in forest conditions can alter the incoming shortwave and longwave radiation, thus changing the melt behavior. More attention needs to be focused on monitoring snowpack in forests, especially those that are impacted by wildfire. 
 
 
-![fire](https://raw.githubusercontent.com/brentwilder/brentwilder.github.io/blob/master/assets/images/20220407_124717.jpg)
+![fire](https://raw.githubusercontent.com/brentwilder/brentwilder.github.io/master/assets/images/20220407_124717.jpg)
 
