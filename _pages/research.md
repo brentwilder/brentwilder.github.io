@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /research/
-title: "Research"
-excerpt: "Research"
+title: "PhD Research"
+excerpt: "PhD Research"
 author_profile: false
 ---
 
