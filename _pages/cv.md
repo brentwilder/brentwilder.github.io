@@ -37,6 +37,7 @@ Publications
 Conferences
 ======
 * **Poster Presentation**, “GLOBAL OPTICAL SNOW PROPERTIES VIA HIGH-SPEED ALGORITHM WITH K-MEANS CLUSTERING (GOSHAWK)” IEEE IGARSS 2023, in LA, CA July 17, 2023.
+* **Poster Presentation**, “Helicopter-Borne Lidar to Resolve Snowpack Variability in Southwest Idaho” AGU 2022, in Chicago, IL December 2022.
 * **Poster Presentation**, “Snow Albedo Modeling with Imaging Spectroscopy aboard Earth Observing Satellites” Surface Biology and Geology (SBG) Community Meeting, in Washington D.C., October 12, 2022.
 * **Oral Presentation**, “Coastal Fog - A Lifeline for Native Plants in Southern California” ESA Annual Conference in Montreal, Canada, August 18, 2022.
 * **Oral Presentation**, “Coastal Fog - A Lifeline for Native Plants” [Naturally Speaking Series](https://www.youtube.com/watch?v=0B5EOmPa89A), July 15, 2022.
