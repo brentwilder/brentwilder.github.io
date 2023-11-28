@@ -10,7 +10,7 @@ author_profile: true
 Education
 ======
 * Ph.D. in Geosciences, Boise State University, est. May 2024 
-  * PhD Dissertation: Modeling snow surface properties from spaceborne imaging spectroscopy 
+  * PhD Dissertation: Modeling snow surface properties from lidar and imaging spectroscopy
 * M.S. in Civil Engineering (Water Resources), San Diego State University, 2021
   * Master's Thesis: _Runoff Prediction and Ecohydrological Recovery for Small Catchments After Fire in Southern California_
 * B.S. in Civil Engineering, Cal Poly Pomona, 2018
@@ -29,6 +29,7 @@ Fellowships
 
 Publications
 ======
+1. Wilder et al. in review. Computationally efficient retrieval of snow surface properties from spaceborne imaging spectroscopy measurements through dimensionality reduction using k-means spectral clustering
 1. [Wilder, B. A., & Kinoshita, A. M. (2022). Incorporating ECOSTRESS evapotranspiration in a paired catchment water balance analysis after the 2018 Holy Fire in California. CATENA, 215, 106300.](https://www.sciencedirect.com/science/article/pii/S0341816222002867) 
 1. [Wilder, B. A., Lancaster, J. T., Cafferata, P. H., Coe, D. B., Swanson, B. J., Lindsay, D. N.,  Short, W. R., & Kinoshita, A. M. (2021). An analytical solution for rapidly predicting post‐fire peak streamflow for small watersheds in southern California. Hydrological Processes, 35(1), e13976.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.13976)
 1. [Kohli, G., Lee, C. M., Fisher, J. B., Halverson, G., Variano, E., Jin, Y., Carney, D., Wilder, B. A., & Kinoshita, A. M. (2020). ECOSTRESS and CIMIS: A Comparison of Potential and Reference Evapotranspiration in Riverside County, California. Remote Sensing, 12(24), 4126. MDPI AG.](https://www.mdpi.com/2072-4292/12/24/4126)
