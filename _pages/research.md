@@ -11,3 +11,6 @@ NASA’s Surface Biology and Geology (SBG) and ESA’s Copernicus Hyperspectral 
 
 ![fire](https://raw.githubusercontent.com/brentwilder/brentwilder.github.io/master/assets/images/20220407_124717.jpg)
 
+![lidar](https://raw.githubusercontent.com/brentwilder/brentwilder.github.io/master/assets/images/lidar-mores.png)
+
+
