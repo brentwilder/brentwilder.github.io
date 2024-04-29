@@ -9,8 +9,8 @@ author_profile: true
 
 Education
 ======
-* Ph.D. in Geosciences, Boise State University, est. May 2024 
-  * PhD Dissertation: Modeling snow surface properties from lidar and imaging spectroscopy
+* Ph.D. in Geosciences, Boise State University, 2024 
+  * PhD Dissertation: _Modeling snow surface properties from lidar and imaging spectroscopy_
 * M.S. in Civil Engineering (Water Resources), San Diego State University, 2021
   * Master's Thesis: _Runoff Prediction and Ecohydrological Recovery for Small Catchments After Fire in Southern California_
 * B.S. in Civil Engineering, Cal Poly Pomona, 2018
@@ -29,7 +29,7 @@ Fellowships
 
 Publications
 ======
-1. Wilder et al. in review. Computationally efficient retrieval of snow surface properties from spaceborne imaging spectroscopy measurements through dimensionality reduction using k-means spectral clustering
+1. [Wilder, B. A., Lee, C. M., Chlus, A., Marshall, H. P., Brandt, J., Kinoshita, A. M., ... & Glenn, N. F. (2024). Computationally efficient retrieval of snow surface properties from spaceborne imaging spectroscopy measurements through dimensionality reduction using k-means spectral clustering. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.](https://ieeexplore.ieee.org/abstract/document/10495100)
 1. [Wilder, B. A., & Kinoshita, A. M. (2022). Incorporating ECOSTRESS evapotranspiration in a paired catchment water balance analysis after the 2018 Holy Fire in California. CATENA, 215, 106300.](https://www.sciencedirect.com/science/article/pii/S0341816222002867) 
 1. [Wilder, B. A., Lancaster, J. T., Cafferata, P. H., Coe, D. B., Swanson, B. J., Lindsay, D. N.,  Short, W. R., & Kinoshita, A. M. (2021). An analytical solution for rapidly predicting post‐fire peak streamflow for small watersheds in southern California. Hydrological Processes, 35(1), e13976.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hyp.13976)
 1. [Kohli, G., Lee, C. M., Fisher, J. B., Halverson, G., Variano, E., Jin, Y., Carney, D., Wilder, B. A., & Kinoshita, A. M. (2020). ECOSTRESS and CIMIS: A Comparison of Potential and Reference Evapotranspiration in Riverside County, California. Remote Sensing, 12(24), 4126. MDPI AG.](https://www.mdpi.com/2072-4292/12/24/4126)
@@ -37,8 +37,9 @@ Publications
   
 Conferences
 ======
-* **Poster Presentation**, “GLOBAL OPTICAL SNOW PROPERTIES VIA HIGH-SPEED ALGORITHM WITH K-MEANS CLUSTERING (GOSHAWK)” IEEE IGARSS 2023, in LA, CA July 17, 2023.
-* **Poster Presentation**, “Helicopter-Borne Lidar to Resolve Snowpack Variability in Southwest Idaho” AGU 2022, in Chicago, IL December 2022.
+* **Poster Presentation**, “Mapping SSA from helicopter-borne lidar reflectance” Western Snow Conference 2024, in Corvallis, OR, April 23-24, 2024.
+* **Poster Presentation**, “GLOBAL OPTICAL SNOW PROPERTIES VIA HIGH-SPEED ALGORITHM WITH K-MEANS CLUSTERING (GOSHAWK)” IEEE IGARSS 2023, in LA, CA, July 17, 2023.
+* **Poster Presentation**, “Helicopter-Borne Lidar to Resolve Snowpack Variability in Southwest Idaho” AGU 2022, in Chicago, IL, December 2022.
 * **Poster Presentation**, “Snow Albedo Modeling with Imaging Spectroscopy aboard Earth Observing Satellites” Surface Biology and Geology (SBG) Community Meeting, in Washington D.C., October 12, 2022.
 * **Oral Presentation**, “Coastal Fog - A Lifeline for Native Plants in Southern California” ESA Annual Conference in Montreal, Canada, August 18, 2022.
 * **Oral Presentation**, “Coastal Fog - A Lifeline for Native Plants” [Naturally Speaking Series](https://www.youtube.com/watch?v=0B5EOmPa89A), July 15, 2022.
