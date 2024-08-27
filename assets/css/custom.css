@@ -1,3 +1,4 @@
+
 /* Apply to the entire page */
 body {
   margin: 0;
@@ -6,8 +7,17 @@ body {
   background-size: cover; /* Adjust to cover the entire page */
   background-position: center;
   background-repeat: no-repeat;
-  color: white; /* Ensure text is readable against the background */
+  color: #333; /* Darker text color for better readability */
   font-family: Arial, sans-serif; /* Optional: adjust to your preference */
+}
+
+/* Container for the content with a transparent background */
+.initial-content {
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.7); /* Slightly transparent white background */
+  padding: 20px; /* Adjust padding as needed */
+  border-radius: 8px; /* Optional: rounded corners */
+  margin: 20px; /* Optional: margin around content */
 }
 
 /* Optional: Add a transparent overlay to improve text readability */
@@ -18,6 +28,6 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5); /* Adjust transparency */
+  background: rgba(0, 0, 0, 0.5); /* Optional: darker overlay for better contrast */
   z-index: -1; /* Ensure the overlay is behind the content */
 }
