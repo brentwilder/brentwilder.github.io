@@ -1,0 +1,23 @@
+/* Apply to the entire page */
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('/assets/images/20220407_124717.jpg');
+  background-size: cover; /* Adjust to cover the entire page */
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white; /* Ensure text is readable against the background */
+  font-family: Arial, sans-serif; /* Optional: adjust to your preference */
+}
+
+/* Optional: Add a transparent overlay to improve text readability */
+body::before {
+  content: '';
+  position: fixed; /* Cover the entire viewport */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Adjust transparency */
+  z-index: -1; /* Ensure the overlay is behind the content */
+}
