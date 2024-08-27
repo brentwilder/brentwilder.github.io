@@ -17,7 +17,6 @@ body {
   padding: 20px; /* Adjust padding as needed */
   border-radius: 8px; /* Optional: rounded corners */
   margin: 20px; /* Optional: margin around content */
-  text-align: center; /* Center content */
 }
 
 /* Optional: Add a transparent overlay to improve text readability */
@@ -32,6 +31,12 @@ body::before {
   z-index: -1; /* Ensure the overlay is behind the content */
 }
 
+/* Button container for centering */
+.button-container {
+  text-align: center; /* Center the button within this container */
+  margin-top: 20px;
+}
+
 /* Button styling */
 .download-button {
   display: inline-block;
@@ -43,7 +48,6 @@ body::before {
   border-radius: 5px;
   text-align: center;
   text-decoration: none;
-  margin-top: 20px;
 }
 
 .download-button:hover {
