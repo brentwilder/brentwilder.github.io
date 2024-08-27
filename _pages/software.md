@@ -7,6 +7,7 @@ author_profile: false
 ---
 
 ## Global Optical Snow properties via High-speed Algorithm With K-means clustering ([goshawk](https://github.com/cryogars/goshawk))
+
 This repository can be used to take in spaceborne imaging spectroscopy data to output snow surface properties. Our algorithm solves for these properties simultaneously using numerical optimization of a linear mixture and a coupled snow & atmospheric radiative transfer model. We leverage k-means spectral clustering and message passing interface to greatly speed up computation. We also solved optimally for terrain, thereby reducing errors associated with global DEM incidence angles. 
 
 
