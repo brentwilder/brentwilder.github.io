@@ -4,13 +4,3 @@ main:
     url: /research/
   - title: "Software"
     url: /software/
-  - title: "CV"
-    url: /cv/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
