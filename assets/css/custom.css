@@ -31,3 +31,23 @@ body::before {
   background: rgba(0, 0, 0, 0.5); /* Optional: darker overlay for better contrast */
   z-index: -1; /* Ensure the overlay is behind the content */
 }
+
+
+/* Button styling */
+.download-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #28a745; /* Bright green background */
+  border: 2px solid #003366; /* Dark blue outline */
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 20px;
+}
+
+.download-button:hover {
+  background-color: #218838; /* Darker green on hover */
+  border-color: #002d72; /* Darker blue on hover */
+}
