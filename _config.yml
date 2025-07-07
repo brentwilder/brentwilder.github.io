@@ -99,15 +99,12 @@ author:
   location         : "Minneapolis, MN (USA)"
   email            :
   links:
-    - label: "brentwilder@u.boisestate.edu"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:brentwilder@u.boisestate.edu"
+    #- label: "brentwilder@u.boisestate.edu"
+    #  icon: "fas fa-fw fa-envelope-square"
+    #  url: "mailto:brentwilder@u.boisestate.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=WMbxlQ4AAAAJ&hl=en"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/brenton-a-wilder/" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/brentwilder"
