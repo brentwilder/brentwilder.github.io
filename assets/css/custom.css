@@ -28,3 +28,23 @@ body::before {
   background: rgba(0, 0, 0, 0.75);
   z-index: -1; 
 }
+
+nav#site-nav {
+  display: flex;
+  justify-content: center;
+  background: transparent; 
+  padding: 20px 0;
+}
+
+nav#site-nav a {
+  font-size: 1.5rem; 
+  font-weight: bold;
+  margin: 0 20px; 
+  color: black; 
+  text-decoration: none;
+}
+
+nav#site-nav a:hover {
+  text-decoration: underline;
+  color: blue;
+}
