@@ -15,4 +15,4 @@ When solving for snow reflectance quantity, some assumptions must be made in the
 
 ![hook](https://tc.copernicus.org/articles/19/2315/2025/tc-19-2315-2025-f03.png)
 
-*Figure 1: Diferences in visible snow reflectance with respect to various sources, as discussed in Bair et al. (2025).*
+*Figure 1: Diferences in snow reflectance with respect background assumptions (left), topography (middle), refractive index of ice (right), as discussed in Bair et al. (2025).*
