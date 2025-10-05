@@ -28,4 +28,4 @@ todo
 
 ![lidar](https://www.frontiersin.org/files/Articles/1487776/feart-13-1487776-HTML/image_m/feart-13-1487776-g012.jpg)
 
-*Figure 2: Derived snow reflectance at 1032 nm from helicopter airborne lidar, as discussed in Wilder et al. (2025).*
+*Figure 2: Derived snow reflectance at 1064 nm from helicopter airborne lidar, as discussed in Wilder et al. (2025).*
