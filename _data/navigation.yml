@@ -1,5 +1,7 @@
 # main linkss
 main:
+- title: ""
+  url: /
 - title: "Research"
   url: /research/
 
