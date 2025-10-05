@@ -1,6 +1,5 @@
 # main linkss
 main:
-#  - title: "Research"
-#    url: /research/
-#  - title: "Software"
-#    url: /software/
+- title: "Research"
+  url: /research/
+
