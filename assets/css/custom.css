@@ -1,56 +1,30 @@
-/* Apply to the entire page */
+
 body {
   margin: 0;
   padding: 0;
   background-image: url('/assets/images/20220407_124717.jpg');
-  background-size: cover; /* Adjust to cover the entire page */
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  color: #333; /* Darker text color for better readability */
-  font-family: Arial, sans-serif; /* Optional: adjust to your preference */
+  color: #333;
+  font-family: Arial, sans-serif;
 }
 
-/* Container for the content with a transparent background */
 .initial-content {
   position: relative;
-  background-color: rgba(255, 255, 255, 0.7); /* Slightly transparent white background */
-  padding: 20px; /* Adjust padding as needed */
-  border-radius: 8px; /* Optional: rounded corners */
-  margin: 20px; /* Optional: margin around content */
+  background-color: rgba(255, 255, 255, 0.75);
+  padding: 20px;
+  border-radius: 8px;
+  margin: 20px;
 }
 
-/* Optional: Add a transparent overlay to improve text readability */
 body::before {
   content: '';
-  position: fixed; /* Cover the entire viewport */
+  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.5); /* Optional: darker overlay for better contrast */
-  z-index: -1; /* Ensure the overlay is behind the content */
-}
-
-/* Button container for centering */
-.button-container {
-  text-align: center; /* Center the button within this container */
-  margin-top: 20px;
-}
-
-/* Button styling */
-.download-button {
-  display: inline-block;
-  padding: 15px 30px; /* Larger padding for a bigger button */
-  font-size: 18px; /* Larger font size */
-  color: #FFFFFF; /* White text */
-  background-color: #007BFF; /* Bright blue background */
-  border: 2px solid #0056b3; /* Darker blue outline */
-  border-radius: 5px;
-  text-align: center;
-  text-decoration: none;
-}
-
-.download-button:hover {
-  background-color: #0056b3; /* Darker blue on hover */
-  border-color: #003d7a; /* Even darker blue on hover */
+  background: rgba(0, 0, 0, 0.75);
+  z-index: -1; 
 }
