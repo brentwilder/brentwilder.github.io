@@ -32,7 +32,7 @@ body::before {
 nav#site-nav {
   display: flex;
   justify-content: center;
-  background: transparent; 
+  background: white; 
   padding: 20px 0;
 }
 
