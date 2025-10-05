@@ -16,3 +16,16 @@ When solving for snow reflectance quantity, some assumptions must be made in the
 ![hook](https://tc.copernicus.org/articles/19/2315/2025/tc-19-2315-2025-f03.png)
 
 *Figure 1: Diferences in snow reflectance with respect background assumptions (left), topography (middle), refractive index of ice (right), as discussed in Bair et al. (2025).*
+
+
+
+## Full-waveform lidar for retrieving optical grain sizes
+
+todo
+
+
+
+
+![lidar](https://www.frontiersin.org/files/Articles/1487776/feart-13-1487776-HTML/image_m/feart-13-1487776-g012.jpg)
+
+*Figure 2: Derived snow reflectance at 1032 nm from helicopter airborne lidar, as discussed in Wilder et al. (2025).*
