@@ -5,8 +5,9 @@ permalink: /
 author_profile: true
 ---
 
+Currently I am a Postdoctoral Researcher within the Uncertainty Quantification and Statistical Analysis Group at NASA's Jet Propulsion Laboratory (JPL). I work on the retrieval of geophysical properties from imaging spectroscopy data (e.g., EMIT, AVIRIS-NG), with an emphasis on improving quantification of uncertainties in coupled atmosphere-surface forward models. 
 
-In Fall 2024 I graduated from Boise State University with a PhD in Geosciences where I focused on modeling snow optical properties from imaging spectroscopy and lidar measurements. Currently I'm a JPL postdoctoral researcher in the Uncertainty Quantification and Statistical Analysis Group continuing this work.
+Before JPL, I did my Ph.D. at the Department of Geosciences at Boise State University under Dr. Nancy Glenn where we focused on retrievals of snow surface properties from imaging spectroscopy data.
 
 
 ![alaska](../assets/images/deju.JPG)

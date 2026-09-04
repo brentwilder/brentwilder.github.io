@@ -5,31 +5,9 @@ permalink: /research/
 author_profile: false
 ---
 
-## Effects of incorrectly modeling diffuse radiance (either from terrain or background) on snow reflectance spectra
-
-Due to properties of snow and refractive index of ice, clean snow reflects nearly all light near the visible end of the EM spectrum (350-600 nm). Although the refractive index of ice has a small source of unknown uncertainty (Picard et al., 2016), the relative uncertainty is much smaller than the errors that manifest from incorrect attribution of diffuse light in remote sensing methods.
-
-When solving for snow reflectance quantity, some assumptions must be made in the forward model that represent surface, background, topography, and atmosphere to estimate the measured signal. However, more research is needed into the best ways of representing nature in the forward model such that the partitioning of direct to diffuse radiance is adequately accounted for. Any disparities will manifest into what Jeff Dozier dubbed as “the problematic hook” (Figure 1). 
+My research is centered around leveraging Earth Observing Satellite data, physically based models, and machine learning to map changes in our environment through space and time. For example, imaging spectroscopy data from sensors like AVIRIS, EMIT, PRISMA, EnMAP, CHIME, and EAGLE-VSWIR are rich with information. Subtle changes in spectra can be used to better understand surface properties and processes around the planet (e.g., lakes, mountains, ice sheets) providing import information for scientists and [decision makers](https://earth.jpl.nasa.gov/emit/applications/application-areas/snow-water-resources/?page=0&per_page=40&order=position+asc&search=&subtitle=&hover=true&show_email=true&show_institution=true&category=201).
 
 
-![hook](https://tc.copernicus.org/articles/19/2315/2025/tc-19-2315-2025-f03.png)
+![EMIT](https://earth.jpl.nasa.gov/emit/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSXBNams0TldVd1pEa3RNek16TnkwMFlXSm1MVGs0WlRRdE1UZG1Oek0yTkRCbE1EUTFCam9HUlZRNkVHUnBjM0J2YzJsMGFXOXVTU0lCZm1sdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWpFNVh6RXRVRWxCTWpRMU1qbGZSVTFKVkY5bWFYSnpkRjlzYVdkb2RGOW1hV2QxY21WZlFTNXFjR1ZuSWpzZ1ptbHNaVzVoYldVcVBWVlVSaTA0SnljeE9WOHhMVkJKUVRJME5USTVYMFZOU1ZSZlptbHljM1JmYkdsbmFIUmZabWxuZFhKbFgwRXVhbkJsWndZN0JsUTZFV052Ym5SbGJuUmZkSGx3WlVraUQybHRZV2RsTDJwd1pXY0dPd1pVT2hGelpYSjJhV05sWDI1aGJXVTZDbXh2WTJGcyIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9rZXkifX0=--f5c0dff1860aeec70a96d1b61b8317a8a805207a/19_1-PIA24529_EMIT_first_light_figure_A.jpeg)
 
-*Figure 1: Differences in snow reflectance with respect background assumptions (left), topography (middle), refractive index of ice (right), as discussed in Bair et al. (2025).*
-
-
-## "Shape from Spectra" principles in remote sensing of snow properties
-
-The local solar incidence angle can be inverted quite well from at-sensor imaging spectroscopy radiance due to the magnitude shift, but also the shape effect due to the diffuse fraction coming into play (Figure 2). This can be visualized by looking at the normalized radiance as shown below. This separability in this response space makes solving for this a well-posed problem for most models, and solves many issues related to poor representation of terrain (Figure 1). More research is needed however on how models designed like this may compensate for within-pixel surface roughness patterns and how this is represented physically.
-
-![shape](https://tc.copernicus.org/articles/18/5015/2024/tc-18-5015-2024-f03-web.png)
-*Figure 2: Shape from spectra idea (Carmon et al., 2023) for synthetic snow example applied in in Wilder et al. (2024).*
-
-
-## Full-waveform lidar for retrieving snow optical grain sizes
-
-A highly understudied, but potentially interesting application of airborne lidar is leveraging the fact that common airborne sensors emit at 1064 nm and resolves complex terrain. This wavelength is significant because reflectance at 1064 nm is highly modulated by optical grain size, as it's in proximity to high absorption band for ice at 1030 nm. However, there are currently some strong limitations that need to be researched further. Lidar intensity calibration, liquid water content of the snow, low lying clouds, atmospheric transmittance, atmospheric water vapor levels, and computational burden present stiff challenges at present. Future research may find success though using in situ calibration with across wide range of targets, multi-wavelength lidar technology, and access to continuous measurements of the atmosphere (e.g., AERONET)
-
-![lidar](https://www.frontiersin.org/files/Articles/1487776/feart-13-1487776-HTML/image_m/feart-13-1487776-g012.jpg)
-![lidar2](https://www.frontiersin.org/files/Articles/1487776/feart-13-1487776-HTML/image_m/feart-13-1487776-g010.jpg)
-
-*Figure 3: Derived snow reflectances and grain radii at 1064 nm from helicopter airborne lidar, published in Wilder et al. (2025).*
+*Figure courtesy of NASA JPL*
