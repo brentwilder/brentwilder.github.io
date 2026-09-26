@@ -21,8 +21,4 @@ todo
 
 ## 2021-2024 - Ph.D. Research at Boise State University
 
-- **Chapter 1:** We demonstrated the use of airborne lidar energy data over Boise Mountains (Idaho, USA) to retrieve information about the distribution of snow grain size at the surface (doi: 10.3389/feart.2025.1487776). 
-
-- **Chapter 2:** We leveraged K-means clustering and Message Passing Interface (MPI) to demonstrate a fast analytical approach to the inversion of snow surface properties from spaceborne imaging spectroscopy data (doi: 10.1109/JSTARS.2024.3386834).
-
-- **Chapter 3:** Helped pioneer the simultaneous retrieval of the local incidence angle, snow properties, and atmosphere from spaceborne imaging spectroscopy data, alleviating the need for fine resolution digital elevation models (doi: 10.5194/tc-18-5015-2024). 
+We demonstrated novel retrieval methods in the remote sensing of snow properties from lidar ([Wilder et al., 2025](https://doi.org/10.3389/feart.2025.1487776)) and imaging spectroscopy data ([Wilder et al., 2024](https://doi.org/10.5194/tc-18-5015-2024)). Notably, we helped pioneer the simultaneous retrieval of the local solar incidence angle, snow properties, and atmosphere properties from spaceborne imaging spectroscopy data, alleviating the need for fine-resolution digital elevation models. In addition, our field data collected in the Boise Mountains and central Alaska helped our collaborators address pressing issues in snow spectroscopy ([Bair et al., 2025](https://doi.org/10.5194/tc-19-2315-2025); [Roberts-Pierel et al., 2025](https://doi.org/10.1016/j.coldregions.2025.104800)). In particular, Ned Bair et al. were able to demonstrate errors associated with adjacency effects that were present in many existing datasets.
