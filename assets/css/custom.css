@@ -46,6 +46,6 @@ nav#site-nav a {
 
 nav#site-nav a:hover {
   text-decoration: underline;
-  text-decoration-color: rgb(66, 0, 159);
-  color: rgb(66, 0, 159);
+  text-decoration-color: #0000ff;
+  color:  #0000ff;
 }
