@@ -28,4 +28,4 @@ We demonstrated novel retrieval methods in the remote sensing of snow properties
 
 - Co-developing a global EMIT-Level 3 Snow Albedo data product (including uncertainty quantification) with Niklas Bohn and others 
 
-- Testing a new algorithm for an Optimal Estimation based approach for solving of melt pond depth and fractional covers for Arctic sea ice from imaging spectroscopy data
+- Testing new algorithm that is an Optimal Estimation based approach for solving of melt pond depth and fractional covers over Arctic sea ice from imaging spectroscopy data
