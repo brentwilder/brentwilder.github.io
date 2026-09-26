@@ -14,11 +14,18 @@ My research is centered around leveraging Earth Observing Satellite data, physic
 
 *Figure courtesy of NASA JPL*
 
-## 2025-present: Postdoc Research at JPL
-
-todo
-
 
 ## 2021-2024: Ph.D. Research at Boise State University
 
 We demonstrated novel retrieval methods in the remote sensing of snow properties from lidar and imaging spectroscopy data. Notably, we helped pioneer the simultaneous retrieval of the local solar incidence angle, snow properties, and atmosphere properties from spaceborne imaging spectroscopy data, alleviating the need for fine-resolution digital elevation models ([Wilder et al., 2024](https://doi.org/10.5194/tc-18-5015-2024)). In addition, our field data collected in the Boise Mountains and central Alaska helped our collaborators address pressing issues in snow spectroscopy ([Bair et al., 2025](https://doi.org/10.5194/tc-19-2315-2025); [Roberts-Pierel et al., 2025](https://doi.org/10.1016/j.coldregions.2025.104800)). In particular, Ned Bair et al. were able to demonstrate errors associated with adjacency effects that were present in many existing datasets.
+
+
+## 2025-present: Postdoc Research at NASA’s Jet Propulsion Laboratory
+
+- Developing Optimal Estimation based fitting algorithm for imaging spectroscopy data (e.g., EMIT) - https://github.com/isofit/isofit 
+
+- Leveraging EMIT through a Kalman filter based data fusion method to improve snowmelt forecasting for a case study in the Kings River Watershed with local partner Matt Meadows 
+
+- Co-developing a global EMIT-Level 3 Snow Albedo data product (including uncertainty quantification and estimation) with Niklas Bohn and others 
+
+- Testing a new algorithm for an Optimal Estimation based approach for solving of melt pond depth and fractional covers for Arctic sea ice from imaging spectroscopy data
