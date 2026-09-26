@@ -22,10 +22,10 @@ We demonstrated novel retrieval methods in the remote sensing of snow properties
 
 ## 2025-present: Postdoc Research at NASA’s Jet Propulsion Laboratory
 
-- Developing Optimal Estimation based fitting algorithm for imaging spectroscopy data (e.g., EMIT) - https://github.com/isofit/isofit 
+- Developing Optimal Estimation based fitting algorithm for imaging spectroscopy data (e.g., EMIT) [https://github.com/isofit/isofit](https://github.com/isofit/isofit)
 
 - Leveraging EMIT through a Kalman filter based data fusion method to improve snowmelt forecasting for a case study in the Kings River Watershed with local partner Matt Meadows 
 
-- Co-developing a global EMIT-Level 3 Snow Albedo data product (including uncertainty quantification and estimation) with Niklas Bohn and others 
+- Co-developing a global EMIT-Level 3 Snow Albedo data product (including uncertainty quantification) with Niklas Bohn and others 
 
 - Testing a new algorithm for an Optimal Estimation based approach for solving of melt pond depth and fractional covers for Arctic sea ice from imaging spectroscopy data
