@@ -15,17 +15,17 @@ Warren Wilson has a phenology camera funded by National Science Foundation (NSF)
 
 **Anonymous Student Evaluations:**
 
-- "Brent is enthusiastic, well informed, and flexible to student's needs and interests. I hope he becomes a professor here one day!"
+- <span style="color:blue">"Brent is enthusiastic, well informed, and flexible to student's needs and interests. I hope he becomes a professor here one day!"</span>
 
-- "I think that he is very passionate about this topic and is very clearly extremely knowledgeable about the topic. It is something I had very little knowledge about and it was lovely to learn from someone who knew what they were talking about."
+- <span style="color:orange">"I think that he is very passionate about this topic and is very clearly extremely knowledgeable about the topic. It is something I had very little knowledge about and it was lovely to learn from someone who knew what they were talking about."</span>
 
-- “Brent is an amazing professor; he overall is great at explaining the topics and teaching students with close to no experience with coding and R. He made sure to explain to everyone thoroughly what the content was and if you were experiencing some type of issue (which typically would happen since I had no prior experience) he would stop the lesson and help, sometimes helping multiple people at once. He was never late and often kept the students' best interest at heart. I would strongly encourage anyone to take this class next semester.”
+- <span style="color:green">“Brent is an amazing professor; he overall is great at explaining the topics and teaching students with close to no experience with coding and R. He made sure to explain to everyone thoroughly what the content was and if you were experiencing some type of issue (which typically would happen since I had no prior experience) he would stop the lesson and help, sometimes helping multiple people at once. He was never late and often kept the students' best interest at heart. I would strongly encourage anyone to take this class next semester.”</span>
 
-- “Brent was very enthusiastic about teaching data science and R skills. He was very helpful and patient when answering questions and was encouraging to students.”
+- <span style="color:black">“Brent was very enthusiastic about teaching data science and R skills. He was very helpful and patient when answering questions and was encouraging to students.”</span>
 
-- “Brent was really wonderful to work with and was very excited about topics, which made me excited to learn.”
+- <span style="color:red">“Brent was really wonderful to work with and was very excited about topics, which made me excited to learn.”</span>
 
-- “I genuinely enjoyed this course and the content I learned seems like it will be very useful for me going forward! Some of the ways data science can be used for ecology are fascinating and I had no idea about them. It was well-taught overall, and the instructor compensated well for unexpected issues with R. My only feedback is that it would be okay to have more confidence and assume that students will bring up issues on our own if they arise.”
+- <span style="color:purple">“I genuinely enjoyed this course and the content I learned seems like it will be very useful for me going forward! Some of the ways data science can be used for ecology are fascinating and I had no idea about them. It was well-taught overall, and the instructor compensated well for unexpected issues with R. My only feedback is that it would be okay to have more confidence and assume that students will bring up issues on our own if they arise.”</span>
 
 
 
