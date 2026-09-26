@@ -23,7 +23,7 @@ Warren Wilson has a phenology camera funded by National Science Foundation (NSF)
 
 - <span style="color:DarkSlateGray">“Brent was very enthusiastic about teaching data science and R skills. He was very helpful and patient when answering questions and was encouraging to students.”</span>
 
-- <span style="color:RebeccaPurple">“Brent was really wonderful to work with and was very excited about topics, which made me excited to learn.”</span>
+- <span style="color:MediumVioletRed">“Brent was really wonderful to work with and was very excited about topics, which made me excited to learn.”</span>
 
 - <span style="color:MediumBlue">“I genuinely enjoyed this course and the content I learned seems like it will be very useful for me going forward! Some of the ways data science can be used for ecology are fascinating and I had no idea about them. It was well-taught overall, and the instructor compensated well for unexpected issues with R. My only feedback is that it would be okay to have more confidence and assume that students will bring up issues on our own if they arise.”</span>
 
