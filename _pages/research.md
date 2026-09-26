@@ -14,11 +14,11 @@ My research is centered around leveraging Earth Observing Satellite data, physic
 
 *Figure courtesy of NASA JPL*
 
-## 2025-present - Postdoc Research at JPL
+## 2025-present: Postdoc Research at JPL
 
 todo
 
 
-## 2021-2024 - Ph.D. Research at Boise State University
+## 2021-2024: Ph.D. Research at Boise State University
 
-We demonstrated novel retrieval methods in the remote sensing of snow properties from lidar ([Wilder et al., 2025](https://doi.org/10.3389/feart.2025.1487776)) and imaging spectroscopy data ([Wilder et al., 2024](https://doi.org/10.5194/tc-18-5015-2024)). Notably, we helped pioneer the simultaneous retrieval of the local solar incidence angle, snow properties, and atmosphere properties from spaceborne imaging spectroscopy data, alleviating the need for fine-resolution digital elevation models. In addition, our field data collected in the Boise Mountains and central Alaska helped our collaborators address pressing issues in snow spectroscopy ([Bair et al., 2025](https://doi.org/10.5194/tc-19-2315-2025); [Roberts-Pierel et al., 2025](https://doi.org/10.1016/j.coldregions.2025.104800)). In particular, Ned Bair et al. were able to demonstrate errors associated with adjacency effects that were present in many existing datasets.
+We demonstrated novel retrieval methods in the remote sensing of snow properties from lidar and imaging spectroscopy data. Notably, we helped pioneer the simultaneous retrieval of the local solar incidence angle, snow properties, and atmosphere properties from spaceborne imaging spectroscopy data, alleviating the need for fine-resolution digital elevation models ([Wilder et al., 2024](https://doi.org/10.5194/tc-18-5015-2024)). In addition, our field data collected in the Boise Mountains and central Alaska helped our collaborators address pressing issues in snow spectroscopy ([Bair et al., 2025](https://doi.org/10.5194/tc-19-2315-2025); [Roberts-Pierel et al., 2025](https://doi.org/10.1016/j.coldregions.2025.104800)). In particular, Ned Bair et al. were able to demonstrate errors associated with adjacency effects that were present in many existing datasets.
