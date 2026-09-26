@@ -18,10 +18,6 @@ body {
   margin: 20px;
 }
 
-.menu-toggle .bar {
-  background-color: #087cd4;
-}
-
 body::before {
   content: '';
   position: fixed;
