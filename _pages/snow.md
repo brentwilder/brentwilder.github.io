@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "On the color of snow"
-permalink: /snowviz
+permalink: /snowviz/
 author_profile: true
 ---
 
